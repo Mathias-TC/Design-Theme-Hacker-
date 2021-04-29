@@ -1,0 +1,85 @@
+body {
+    position: relative;
+    top: 30px
+}
+
+.logintitle {
+    position: relative;
+    color: black;
+    font-size: 20px;
+    font-family: Monospace, Helvetica, sans-serif;
+
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 10px;
+} 
+
+.username {
+    position: relative;
+    color: black;
+    font-size: 15px;
+    font-family: Monospace, Helvetica, sans-serif;
+
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+    top: 12px;
+}
+
+.password {
+    position: relative;
+    color: black;
+    font-size: 15px;
+    font-family: Monospace, Helvetica, sans-serif;
+
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+    top: 24px;
+}
+
+.insert {
+    border: 2px dashed black;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.submit {
+    position: relative;
+    left: 796px;
+
+    font-size: 15px;
+    font-family: Monospace, Helvetica, sans-serif;
+    
+    text-align: center;
+    margin: auto;
+    height: auto;
+    width: 10%;
+    border: 3px solid green;
+    padding: 10px;
+    top: 35px; 
+    background-color: white;
+}
+
+.cancel {
+    position: relative;
+    left: 339px;
+
+    font-size: 15px;
+    font-family: Monospace, Helvetica, sans-serif;
+    
+    text-align: center;
+    margin: auto;
+    height: auto;
+    width: 10%;
+    border: 3px solid red;
+    padding: 10px;
+    top: 35px; 
+    background-color: white;
+}
